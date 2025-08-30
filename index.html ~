@@ -4,20 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sobre Mim - Meu Portfólio</title>
+    <!-- Link para o arquivo de estilo comum a todas as páginas -->
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
+    <!-- Cabeçalho principal do site -->
     <header>
         <h1>Meu Portfólio Web</h1>
     </header>
+
+    <!-- Menu de navegação presente em todas as páginas -->
     <nav>
-        <!-- Menu visível em todas as páginas -->
         <a href="index.html">Sobre Mim</a>
         <a href="formacao.html">Formação</a>
         <a href="portfolio.html">Portfólio</a>
         <a href="contato.html">Contato</a>
     </nav>
 
+    <!-- Conteúdo principal: seção "Sobre Mim" -->
     <main>
         <section>
             <h2>Sobre Mim</h2>
@@ -31,6 +35,7 @@
         </section>
     </main>
 
+    <!-- Rodapé com direitos autorais -->
     <footer>
         &copy; 2025 Meu Portfólio Web. Todos os direitos reservados.
     </footer>
